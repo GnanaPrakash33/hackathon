@@ -1,0 +1,45 @@
+2024-06-20 10:38:06,797 [main] INFO  utils.LogUtil - Executing Scenario: Calculating car loan emi with various inputs
+2024-06-20 10:38:13,997 [main] INFO  utils.LogUtil - Step Success: the_user_is_on_the_emi_calculator_page_using_chrome, PASSED
+2024-06-20 10:38:15,467 [main] INFO  utils.LogUtil - Step Success: the_user_clicks_on_the_car_loan_tab, PASSED
+2024-06-20 10:38:16,511 [main] INFO  utils.LogUtil - Step Success: the_user_enters_the_car_loan_amount, PASSED
+2024-06-20 10:38:17,372 [main] INFO  utils.LogUtil - Step Success: the_user_enters_the_loan_interest, PASSED
+2024-06-20 10:38:18,577 [main] INFO  utils.LogUtil - Step Success: the_user_enters_the_loan_tenure_year, PASSED
+2024-06-20 10:38:20,238 [main] INFO  utils.LogUtil - Step Success: I_verify_and_display_the_emi_details, PASSED
+2024-06-20 10:38:20,966 [main] INFO  utils.LogUtil - Step Success: the_user_navigates_to_home_loan_calculator_page, PASSED
+2024-06-20 10:38:21,433 [main] INFO  utils.LogUtil - Executing Scenario: Calculating detailed home loan information with various inputs
+2024-06-20 10:38:26,773 [main] INFO  utils.LogUtil - Step Success: the_user_is_on_the_home_loan_calculator_page_using_chrome, PASSED
+2024-06-20 10:38:27,852 [main] INFO  utils.LogUtil - Step Success: the_user_enters_the_home_value, PASSED
+2024-06-20 10:38:28,407 [main] INFO  utils.LogUtil - Step Success: the_user_enters_the_down_payment, PASSED
+2024-06-20 10:38:28,904 [main] INFO  utils.LogUtil - Step Success: the_user_enters_the_interest_rate, PASSED
+2024-06-20 10:38:29,671 [main] INFO  utils.LogUtil - Step Success: the_user_enters_the_loan_tenure_year, PASSED
+2024-06-20 10:38:38,562 [main] INFO  utils.LogUtil - Step Success: I_store_the_generated_year_on_year_loan_details_in_an_excel_format, PASSED
+2024-06-20 10:38:39,540 [main] INFO  utils.LogUtil - Step Success: the_user_navigates_to_loan_calculator_page, PASSED
+2024-06-20 10:38:40,080 [main] INFO  utils.LogUtil - Executing Scenario: Performing UI tests on various loan tools
+2024-06-20 10:38:45,824 [main] INFO  utils.LogUtil - Step Success: the_user_is_on_the_loan_calculator_page_using_chrome, PASSED
+2024-06-20 10:38:46,426 [main] INFO  utils.LogUtil - Step Success: the_user_clicks_on_the_emi_calculator_tab, PASSED
+2024-06-20 10:38:47,072 [main] INFO  utils.LogUtil - Step Success: the_user_on_emi_calculator_tab_enters_the_loan_amount, PASSED
+2024-06-20 10:38:47,722 [main] INFO  utils.LogUtil - Step Success: the_user_on_emi_calculator_tab_enters_the_loan_interest, PASSED
+2024-06-20 10:38:48,709 [main] INFO  utils.LogUtil - Step Success: the_user_on_emi_calculator_tab_enters_the_loan_tenure_year, PASSED
+2024-06-20 10:38:49,342 [main] INFO  utils.LogUtil - Step Success: the_user_on_emi_calculator_tab_enters_the_loan_fees, PASSED
+2024-06-20 10:38:49,694 [main] INFO  utils.LogUtil - Step Success: I_verify_the_loan_amount_ui_on_emi_calculator_tab, PASSED
+2024-06-20 10:38:50,026 [main] INFO  utils.LogUtil - Step Success: I_verify_the_loan_interest_ui_on_emi_calculator_tab, PASSED
+2024-06-20 10:38:50,793 [main] INFO  utils.LogUtil - Step Success: I_verify_the_year_loan_tenure_ui_on_emi_calculator_tab, PASSED
+2024-06-20 10:38:51,114 [main] INFO  utils.LogUtil - Step Success: I_verify_the_loan_fees_ui_on_emi_calculator_tab, PASSED
+2024-06-20 10:38:51,641 [main] INFO  utils.LogUtil - Step Success: the_user_clicks_on_the_loan_amount_calculator_tab, PASSED
+2024-06-20 10:38:52,623 [main] INFO  utils.LogUtil - Step Success: the_user_on_loan_amount_calculator_tab_enters_the_emi_amount, PASSED
+2024-06-20 10:38:53,126 [main] INFO  utils.LogUtil - Step Success: the_user_on_loan_amount_calculator_tab_enters_the_loan_interest, PASSED
+2024-06-20 10:38:53,776 [main] INFO  utils.LogUtil - Step Success: the_user_on_loan_amount_calculator_tab_enters_the_loan_tenure_year, PASSED
+2024-06-20 10:38:54,195 [main] INFO  utils.LogUtil - Step Success: the_user_on_loan_amount_calculator_tab_enters_the_loan_fees, PASSED
+2024-06-20 10:38:54,477 [main] INFO  utils.LogUtil - Step Success: I_verify_the_loan_emi_ui_on_loan_amount_calculator_tab, PASSED
+2024-06-20 10:38:54,747 [main] INFO  utils.LogUtil - Step Success: I_verify_the_loan_interest_ui_on_loan_amount_calculator_tab, PASSED
+2024-06-20 10:38:55,431 [main] INFO  utils.LogUtil - Step Success: I_verify_the_year_loan_tenure_ui_on_loan_amount_calculator_tab, PASSED
+2024-06-20 10:38:55,802 [main] INFO  utils.LogUtil - Step Success: I_verify_the_loan_fees_ui_on_loan_amount_calculator_tab, PASSED
+2024-06-20 10:38:56,417 [main] INFO  utils.LogUtil - Step Success: the_user_clicks_on_the_loan_tenure_calculator_tab, PASSED
+2024-06-20 10:38:56,990 [main] INFO  utils.LogUtil - Step Success: the_user_on_loan_tenure_calculator_tab_enters_the_loan_amount, PASSED
+2024-06-20 10:38:57,688 [main] INFO  utils.LogUtil - Step Success: the_user_on_loan_tenure_calculator_tab_enters_the_emi_amount, PASSED
+2024-06-20 10:38:58,144 [main] INFO  utils.LogUtil - Step Success: the_user_on_loan_tenure_calculator_tab_enters_the_loan_interest, PASSED
+2024-06-20 10:38:58,606 [main] INFO  utils.LogUtil - Step Success: the_user_on_loan_tenure_calculator_tab_enters_the_loan_fees, PASSED
+2024-06-20 10:38:59,081 [main] INFO  utils.LogUtil - Step Success: I_verify_the_loan_amount_ui_on_loan_tenure_calculator_tab, PASSED
+2024-06-20 10:38:59,578 [main] INFO  utils.LogUtil - Step Success: I_verify_the_loan_emi_ui_on_loan_tenure_calculator_tab, PASSED
+2024-06-20 10:39:00,079 [main] INFO  utils.LogUtil - Step Success: I_verify_the_loan_interest_ui_on_loan_tenure_calculator_tab, PASSED
+2024-06-20 10:39:00,500 [main] INFO  utils.LogUtil - Step Success: I_verify_the_loan_fees_ui_on_loan_tenure_calculator_tab, PASSED
